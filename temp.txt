@@ -1,0 +1,16 @@
+web scrappping:
+    - ws is a process of extracting the data from web pages automatically using programe or scripts
+
+How Does It Work?
+    - Send a request to the website using Python (requests or selenium)
+    - Receive HTML content (the raw web page)
+    - Parse the HTML using a parser (BeautifulSoup, lxml)
+    - Extract specific elements like <title>, <a>, <div class="price">, etc.
+    - (Optional) Store data in a file or database
+
+# install required libraray
+pip install requests beautifulsoup4
+
+# in .py file
+import requests
+from bs4 import beautifulsoup

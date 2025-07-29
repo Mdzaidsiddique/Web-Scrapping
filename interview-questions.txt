@@ -1,0 +1,25 @@
+Ajay Vahan Reddy : Discussion points with Tommy
+- Explain about web scraping and how you did it?
+- Different between beautifulsoup vs mechanicalsoup python library and Why you used beautifulsoup over mechanicalsoup?
+- Explain about PHP, rest API project (Spott).
+- What API did you develop on your own and What Http methods they used?
+- How do you do API versioning?
+- How do you ensure your code is optimized (tools you use)?
+- How do you debug your code?
+- How do you manage/handle special characters (Unicode characters)?
+- Have you worked on css, js and jquery?
+- Did you face any complex situation in SQL queries?
+- How do you ensure that your queries are optimized?
+- What difference between git pull vs git pull --rebase?
+
+Client Explanations/briefing:
+- We are using python 3.7, any experience in it is useful.
+- We use git pull --rebase
+- We do a lot of web scraper and using beautifulsoup and many more python library.
+- We developing/using search engine that crawle on different sites and gather data.
+- We need to manage heavy Data so good MySQL knowledge needed, especially query optimization.
+- We have angular-Django and angular-PHP code
+
+
+question to interviewer:
+- Can you tell me more about the team I would be working with? (describe work culture, learning and growth)
