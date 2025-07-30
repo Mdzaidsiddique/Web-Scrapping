@@ -1,4 +1,4 @@
-Ajay Vahan Reddy : Discussion points with Tommy
+
 - Explain about web scraping and how you did it?
 - Different between beautifulsoup vs mechanicalsoup python library and Why you used beautifulsoup over mechanicalsoup?
 - Explain about PHP, rest API project (Spott).
